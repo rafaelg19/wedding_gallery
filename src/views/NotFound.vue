@@ -1,0 +1,3 @@
+<template>
+    <img src="https://http.cat/404" alt="404 Not Found">
+</template>
