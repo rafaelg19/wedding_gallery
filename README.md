@@ -1,24 +1,10 @@
 # wedding_gallery
 
+Wedding gallery frontend on Vuejs to consume backend API built with python Flask using MongoDB, created for the Anchor Loans hiring proccess.
+
+To run the project, first you must initialize the [Flask Api](https://github.com/rafaelg19/gallery_api)
+
 ## Project setup
 ```
 npm install
 ```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
