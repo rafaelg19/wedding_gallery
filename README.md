@@ -6,5 +6,7 @@ To run the project, first you must initialize the [Flask Api](https://github.com
 
 ## Project setup
 ```
-npm install
+cd gallery-api
+npm install serve
+serve dist
 ```
